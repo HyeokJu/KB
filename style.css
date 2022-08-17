@@ -1,0 +1,22 @@
+.title {
+    font-size:50px;
+    text-align:center;
+    border-bottom:1px solid black;
+    margin:0;
+    padding:20px;
+}
+.grid {
+    text-align:center;
+    display:grid;
+    grid-template-columns:repeat(4, 1fr);
+}
+.topic a {
+    color:green;
+    text-decoration:none;
+}
+.description {
+    padding-bottom:40px;
+}
+.step {
+    padding-bottom:40px;
+}
