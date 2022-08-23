@@ -8,7 +8,7 @@
 .grid {
     text-align:center;
     display:grid;
-    grid-template-columns:repeat(4, 1fr);
+    
 }
 .topic a {
     color:green;
