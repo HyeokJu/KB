@@ -13,6 +13,10 @@
 .topic a {
     color:green;
     text-decoration:none;
+    font-family: 'GmarketSansMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
 }
 .description {
     padding-bottom:40px;
